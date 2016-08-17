@@ -1,2 +1,2 @@
 # PowerShellSteam
-PowerShell Module for Interfacing with Steams Web API
+PowerShell Module for Interfacing with Steam's Web API
